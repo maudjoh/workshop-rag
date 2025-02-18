@@ -1,0 +1,6 @@
+openai==1.3.5
+requests==2.31.0
+python-dotenv==1.0.1
+pymupdf==1.23.5  # For PDF-håndtering
+ipywidgets==8.1.1  # For interaktive elementer i notebooken
+notebook==7.0.7  # Sørger for at Jupyter Notebook fungerer riktig

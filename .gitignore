@@ -1,0 +1,14 @@
+.git
+
+# python files
+*__pycache__
+.python_packages
+
+# virtual env
+.venv/*
+venv/*
+
+#env
+.env
+
+
